@@ -1,2 +1,3 @@
-# pong
-simple pong game made using python arcade
+# 2 Player Pong
+
+Discontinued project i made for school, doesn't work
